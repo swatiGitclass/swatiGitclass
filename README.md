@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Swati Nikalje 👋
 
-<!--
-**swatiGitclass/swatiGitclass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Scientist | Machine Learning Engineer | Generative AI Enthusiast
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Machine Learning
+- Deep Learning
+- Generative AI
+- LangChain
+- RAG
+- Agentic AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Current Focus
+🔹 Building RAG Applications
+🔹 Learning Agentic AI
+🔹 Developing End-to-End ML Projects
+
+## Connect With Me
+💼 LinkedIn: linkedin.com/in/swati-pohare-4a08291b8
+
+📂 GitHub: github.com/swatiGitclass
+
+📧 Email: swatipohare.1111@gmail.com
+
+---
+⭐ Always learning, building, and sharing knowledge.
 -->
